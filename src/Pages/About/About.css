@@ -1,0 +1,42 @@
+.download{
+    background-image: linear-gradient(orange, tomato);
+    padding: 20px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5%;
+    text-decoration: none;
+}
+.flexible-container {
+    display: flex;
+    margin-bottom: 100px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 3%;
+    padding-right: 3%;
+
+}
+.image {
+    height: 700px;
+    width: 900px;
+    padding-top: 15%;
+    
+}
+h1{
+    font-size: 70px;
+    color: #E48D1C;
+}
+h3{
+    color:#00D096 ;
+}
+p{
+    font-size: 18px;
+    margin-bottom: 35px;
+   
+}
+
+.left{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
